@@ -1,0 +1,13 @@
+{
+    "name": "Game",
+    "alias": "game",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Game\\Providers\\GameServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Play",
+    "alias": "play",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Play\\Providers\\PlayServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

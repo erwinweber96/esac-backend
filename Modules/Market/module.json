@@ -1,0 +1,13 @@
+{
+    "name": "Market",
+    "alias": "market",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Market\\Providers\\MarketServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

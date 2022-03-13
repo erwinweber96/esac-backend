@@ -1,0 +1,13 @@
+{
+    "name": "Console",
+    "alias": "console",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Console\\Providers\\ConsoleServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "GameServer",
+    "alias": "gameserver",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\GameServer\\Providers\\GameServerServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

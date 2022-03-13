@@ -1,0 +1,13 @@
+{
+    "name": "Twitch",
+    "alias": "twitch",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Twitch\\Providers\\TwitchServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
