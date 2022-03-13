@@ -1,0 +1,63 @@
+<?php
+
+
+namespace App\Validation;
+
+
+class Rules
+{
+    const FORBIDDEN_SLUGS = [
+        "type",
+        "Type",
+        "types",
+        "Types",
+        "create",
+        "Create",
+        "update",
+        "Update",
+        "delete",
+        "Delete",
+        "remove",
+        "Remove",
+        "user",
+        "User",
+        "users",
+        "Users",
+        "event",
+        "Event",
+        "events",
+        "Events",
+        "property",
+        "Property",
+        "properties",
+        "Properties",
+        "post",
+        "Post",
+        "posts",
+        "Posts",
+        "moderator",
+        "Moderator",
+        "moderators",
+        "Moderators",
+        "link",
+        "Link",
+        "links",
+        "Links",
+        "role",
+        "Role",
+        "roles",
+        "Roles",
+        "option",
+        "Option",
+        "options",
+        "Options",
+        "all",
+        "All",
+        "search",
+        "Search",
+        "undefined",
+        "Undefined",
+        "register",
+        "Register",
+    ];
+}

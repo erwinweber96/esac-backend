@@ -1,0 +1,17 @@
+{
+    "User": true,
+    "Page": true,
+    "Link": true,
+    "Post": true,
+    "Event": true,
+    "Map": true,
+    "GameServer": true,
+    "Game": true,
+    "Group": true,
+    "Match": true,
+    "Console": true,
+    "Migration": true,
+    "Play": true,
+    "Market": true,
+    "Twitch": true
+}
